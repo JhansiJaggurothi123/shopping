@@ -1,0 +1,48 @@
+*{
+  margin:0px;
+  padding: 0px;
+  box-sizing: border-box;
+  font-family:Arial, Helvetica, sans-serif ;
+}
+body{
+  border: 5px solid black;
+}
+.Header-section{
+  display: flex;
+  margin: 20px;
+  background-color: black;
+  padding: 10px;
+  color: white;
+}
+ .center ul li{
+  list-style: none;
+  display: inline-flex;
+  margin: 0px 10px;
+}
+.left{
+  flex: 4;
+ /* border: 1px solid black;*/
+}
+.center{
+  flex: 4;
+ /* border: 1px solid black;*/
+}
+.search{
+  flex: 2;
+ /* border: 1px solid black;*/
+}
+.right{
+  flex:4;
+ /* border: 1px solid black;*/
+  display: flex;
+  justify-content: space-around;
+  margin: 0px ;
+}
+.title{
+  font-size: 1rem;
+}
+.Banner-Box img{
+   width: 100%;
+   margin-bottom: 300px;
+
+}

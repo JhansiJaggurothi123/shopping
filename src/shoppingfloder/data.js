@@ -1,0 +1,31 @@
+export const Girls={
+    title :"Gens Fashion",
+    image1:"assets/women/pic1.webp",
+    image2:"assets/women/pic2.webp",
+    image3:"assets/women/pic3.webp",
+    image4:"assets/women/pic4.webp",
+    image5:"assets/women/pic5.webp",
+    image6:"assets/women/pic6.webp",
+    price1:"550 INR",
+    price2:"450 INR",
+    price3:"400 INR",
+    price4:"350 INR",
+    price5:"450 INR",
+    price6:"550 INR",
+}
+export const Boys={
+    title :"Boys Fashion",
+    image1:"assets/men/pic1.webp",
+    image2:"assets/men/pic2.webp",
+    image3:"assets/men/pic3.webp",
+    image4:"assets/men/pic4.webp",
+    image5:"assets/men/pic5.webp",
+    image6:"assets/men/pic6.webp",
+    price1:"550 INR",
+    price2:"450 INR",
+    price3:"400 INR",
+    price4:"350 INR",
+    price5:"450 INR",
+    price6:"550 INR",
+
+}
